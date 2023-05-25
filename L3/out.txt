@@ -1,0 +1,32 @@
+0.958851
+epoch =0
+s =0.5
+factor =0
+epoch =1
+s =-inf
+factor =0
+epoch =2
+s =nan
+factor =0
+epoch =3
+s =nan
+factor =0
+epoch =4
+s =nan
+factor =0
+epoch =5
+s =nan
+factor =0
+epoch =6
+s =nan
+factor =0
+epoch =7
+s =nan
+factor =0
+epoch =8
+s =nan
+factor =0
+epoch =9
+s =nan
+factor =0
+nan
