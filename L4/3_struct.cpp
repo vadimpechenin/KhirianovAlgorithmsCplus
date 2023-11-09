@@ -1,5 +1,9 @@
 #include <iostream>
 
+/*
+Передача нескольких чисел из функции в функцию
+*/
+
 using namespace std;
 
 struct t_Pair {  // создаём новый тип t_Pair
