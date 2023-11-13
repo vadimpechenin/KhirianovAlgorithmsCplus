@@ -5,6 +5,7 @@ const int MAX_A_SIZE = 100;
 
 int main()
 {
+    /*Массив переменного размера*/
     int N = MAX_A_SIZE;
     int A[N];
     int top = 0;

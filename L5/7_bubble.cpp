@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    /*Пузырьковая сортировка*/
     int N = 5;
     int A[N] = {1, 3, 2, 5, 4};
     

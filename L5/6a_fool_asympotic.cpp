@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    /*Сортировка, сложность алгоритма O(N3)*/
     int N = 10000;
     int A[N];
     for(int i = 0; i < N; i++) A[i] = N-i;
